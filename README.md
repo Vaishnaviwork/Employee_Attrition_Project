@@ -86,7 +86,7 @@ Example features:
 - Age, Department, JobRole, MonthlyIncome, JobSatisfaction, OverTime, YearsAtCompany  
 - Target Variable: Attrition (0 = Stayed, 1 = Left)  
 
-📂 Dataset Source: [IBM HR Analytics Employee Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)  
+📂 Dataset Source: (https://www.kaggle.com/code/varunsaikanuri/employee-attrition-analysis) 
 
 ---
 
